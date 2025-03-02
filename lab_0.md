@@ -1,3 +1,11 @@
+---
+title: "Lab 1"
+author: "Mateusz"
+date: "`r Sys.Date()`"
+output: github_document
+---
+
+
 # 1. Wylosować dziesięć liczb z rozkładów normalnych o średniej dowolnej i odchyleniu standardowym dowolnym. 
 
 ```{R}
