@@ -2,7 +2,6 @@
 title: "Lab 1"
 author: "Mateusz"
 date: "`r Sys.Date()`"
-output: github_document
 ---
 
 
