@@ -5,7 +5,7 @@ date: "`r Sys.Date()`"
 output: html_document
 ---
 ```{R}
-rmarkdown::render("lab1.Rmd", output_format = "html_document")
+rmarkdown::render("lab_0.rmd", output_format = "html_document")
 ```
 
 # 1. Wylosować dziesięć liczb z rozkładów normalnych o średniej dowolnej i odchyleniu standardowym dowolnym. 
